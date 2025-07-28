@@ -1,10 +1,10 @@
 Introduction
 This project is part of the TripleTen course. It showcases my skills in data analysis, visualization, and web application development. For this project, I utilized:
 
-GitHub for version control and collaboration
-VS Code and Spyder for development and testing
-Render for deployment
-ChatGPT for assistance during development
+GitHub for version control and collaboration,
+VS Code for development and testing,
+Render for deployment,
+ChatGPT for assistance during development,
 I also used CLI for file management and task automation.
 
 About the App
